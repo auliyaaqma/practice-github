@@ -11,22 +11,7 @@ package travlendar_a2;
  */
 public class Location {
     //atribute
-    private int kode_lokasi;
     private String nama_lokasi;
-
-    /**
-     * @return the kode_lokasi
-     */
-    public int getKode_lokasi() {
-        return kode_lokasi;
-    }
-
-    /**
-     * @param kode_lokasi the kode_lokasi to set
-     */
-    public void setKode_lokasi(int kode_lokasi) {
-        this.kode_lokasi = kode_lokasi;
-    }
 
     /**
      * @return the nama_lokasi
